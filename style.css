@@ -21,3 +21,43 @@ footer {
 
         
 
+
+
+.background_img {
+    font-size: 1.1rem;
+    text-align: center;
+    padding: 1rem;
+    color: blue;
+    text-shadow: 0px 5px 10px rgb(8, 1, 7);
+    border: 9px solid rgb(222, 7, 241);
+    background-image: image-set("images/song-for-littles-speech-therapy.jpg")
+    
+}
+.re-image {
+    
+}
+.PoP {
+    text-align: center;
+    border-style: solid; padding: 50px;
+    
+}
+.musictherapy {
+    display: grid;
+    background-color: rgb(248, 242, 247);
+    pad: 9px;
+    grid-template-columns: auto auto auto;
+    gap: 4px 5px;
+}
+.img0 {
+    border: solid black 10px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.img0 {
+    border: solid black 9px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+
+}

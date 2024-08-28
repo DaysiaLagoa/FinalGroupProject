@@ -20,7 +20,7 @@ footer {
 
 
 
-.background_img {
+.container{
     font-size: 1.1rem;
     text-align: center;
     padding: 1rem;
@@ -29,10 +29,9 @@ footer {
     border: 9px solid rgb(222, 7, 241);
     background-image: image-set("images/song-for-littles-speech-therapy.jpg")
     
-}
-.re-image {
     
 }
+
 .PoP {
     text-align: center;
     border-style: solid; padding: 50px;

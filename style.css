@@ -48,8 +48,11 @@ body {
 
 footer {
     background-color: #f8f9fa;
-    padding: 20px 0;
-}
+    padding: 20px 0px;
+{
+
+
+    
 
 
 
@@ -91,6 +94,7 @@ footer {
 
 }
 
+<<<<<<< HEAD
 .batman {
     background-color: #d7d9f2;
   }
@@ -126,3 +130,9 @@ footer {
     margin: 0;
   }
   
+=======
+.one{
+    border: solid black 2px;
+
+}
+>>>>>>> 9f14994dd17ac203bf7546f90b27bf53458f2fdd

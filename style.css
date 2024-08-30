@@ -1,3 +1,36 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-between;
+}
+button {
+    float: left;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+button a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+}
+
+button a:hover {
+    background-color: chartreuse;
+    color: black;
+    font-size: 32px;
+}
+
+button a:hover:not(.active) {
+    background-color: aquamarine;
+}
+
 body {
     font-family: 'Arial', sans-serif;
 }
@@ -45,15 +78,51 @@ footer {
     gap: 4px 5px;
 }
 .img0 {
-    border: solid black 10px;
-    padding: 20px;
+    border: solid black 5px;
+    padding: 10px;
     font-size: 20px;
     text-align: center;
 }
 .img0 {
-    border: solid black 9px;
-    padding: 20px;
+    border: solid black 5px;
+    padding: 10px;
     font-size: 20px;
     text-align: center;
 
 }
+
+.batman {
+    background-color: #d7d9f2;
+  }
+  
+  .flash {
+    background-color: #ffe8d4;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+  }
+  
+  caption {
+    caption-side: bottom;
+    padding: 10px;
+  }
+  
+  th,
+  td {
+    border: 1px solid rgb(160 160 160);
+    padding: 8px 6px;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+  figure {
+    margin: 0;
+  }
+  

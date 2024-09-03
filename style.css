@@ -145,6 +145,7 @@ figure {
     display: flex;
     align-items: center;
 }
+<<<<<<< HEAD
 .ac{
     font-size: 50px;
     text-align: center;
@@ -203,6 +204,11 @@ table {
     font-weight: bold;
   }
  
+=======
+
+
+---------- home and about page ------------------
+>>>>>>> d77a1b62afed2bb3e025f05271673666aa0e3932
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(255, 0, 212);
 }

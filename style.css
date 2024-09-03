@@ -48,8 +48,9 @@ body {
 }
 
 footer {
-    background-color: #f8f9fa;
-    padding: 20px 0px;
+    background-color: #ebeef1;
+    text-align: center;
+    
 
 }
 
@@ -134,6 +135,11 @@ figure {
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(6, 0, 5);
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ed743aa2f995a95f875a83a320abb806589e5971
 .three{
     border: darkred;
     font-size: 20px;
@@ -153,6 +159,7 @@ figure {
     padding: 2;
     margin: 20px 200px 20px 200px
 }
+<<<<<<< HEAD
 
 .below{
     color: rgb(255, 0, 140);
@@ -205,12 +212,66 @@ table {
 
 
 
+=======
+>>>>>>> ed743aa2f995a95f875a83a320abb806589e5971
 
----------- home and about page ------------------
+.below{
+    color: rgb(255, 0, 140);
+    border: 2mm ridge black;
+    border-width: 5;
+    padding: 1;
+    margin: 20px 200px 20px 200px
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+  }
+  
+  caption {
+    caption-side: bottom;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  thead,
+  tfoot {
+    background-color: rgb(228 240 245);
+  }
+  
+  th,
+  td {
+    border: 1px solid rgb(160 160 160);
+    padding: 8px 10px;
+  }
+  
+  td:last-of-type {
+    text-align: center;
+  }
+  
+  tbody > tr:nth-of-type(even) {
+    background-color: rgb(237 238 242);
+  }
+  
+  tfoot th {
+    text-align: right;
+  }
+  
+  tfoot td {
+    font-weight: bold;
+  }
+ 
+---------- home and about page ---------------
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(255, 0, 212);
 }
 
+.ap{
+    font-size:x-large;
+}
 ------------------CONTACT PAGE----------------------------
 
 label {
@@ -253,6 +314,7 @@ input[type='image'] {
   
   .fit img {
     width: 60%;
+    
   }
   
   .fit p {

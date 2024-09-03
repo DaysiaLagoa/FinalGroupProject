@@ -133,17 +133,76 @@ figure {
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(6, 0, 5);
 }
-------- ACTIVITIES --------
-.one{
-    font-size: 40px;
+
+
+.three{
+    border: darkred;
+    font-size: 20px;
+    border: 5px solid rgb(210, 241, 7);
     text-align: center;
-    border: solid black 2px;
 }
 .two{
     display: flex;
     align-items: center;
 }
- ---------- home and about page ------------------
+.ac{
+    font-size: 50px;
+    text-align: center;
+    border: 2mm ridge rgba(211, 220, 50, .6);
+    border-width: 9;
+    padding: 2;
+    margin: 20px 200px 20px 200px
+}
+
+.below{
+    color: rgb(255, 0, 140);
+    border: 2mm ridge black;
+    border-width: 5;
+    padding: 1;
+    margin: 20px 200px 20px 200px
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+  }
+  
+  caption {
+    caption-side: bottom;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  thead,
+  tfoot {
+    background-color: rgb(228 240 245);
+  }
+  
+  th,
+  td {
+    border: 1px solid rgb(160 160 160);
+    padding: 8px 10px;
+  }
+  
+  td:last-of-type {
+    text-align: center;
+  }
+  
+  tbody > tr:nth-of-type(even) {
+    background-color: rgb(237 238 242);
+  }
+  
+  tfoot th {
+    text-align: right;
+  }
+  
+  tfoot td {
+    font-weight: bold;
+  }
+ 
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(255, 0, 212);
 }

@@ -51,12 +51,6 @@ footer {
     padding: 20px 0px;
 
 }
-    
-
-
-
-    
-
 
 
 .container{
@@ -153,6 +147,9 @@ figure {
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(255, 0, 212);
 }
+
+------------------CONTACT PAGE----------------------------
+
 label {
     font-size: .7rem;
 }
@@ -163,6 +160,23 @@ input[type='image'] {
   
 input[type='image'] {
     width: 9%;
+}
+
+.preference {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: 0.5rem;
+}
+
+.survey {
+    text-shadow: 0px 5px 10px rgb(242, 250, 12);
+    text-align: center;
+}
+.survQ {
+    color: #d7d9f2;
+    text-shadow: 0px 5px 10px rgb(242, 250, 12);
+    text-align: center;
 }
 --------- FITNESS ---------------------------------
 .fit {

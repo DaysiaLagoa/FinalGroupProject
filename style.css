@@ -138,138 +138,344 @@ figure {
 -------------------activities------------------------
 
 
-.three{
-    border: darkred;
-    font-size: 20px;
-    border: 5px solid rgb(210, 241, 7);
-    text-align: center;
+.home_page_p {
+
+    text-shadow:
+0px 5px 10px rgb(6,
+0, 5);
+
 }
+
+
+
+
+
+
+
+.three{
+
+    border:
+darkred;
+
+    font-size:
+20px;
+
+    border:
+5px solid rgb(210,
+241, 7);
+
+    text-align:
+center;
+
+}
+
+
 
 .two{
-    display: flex;
-    align-items: center;
+
+    display:
+flex;
+
+    align-items:
+center;
+
 }
 
+
+
 .ac{
-    font-size: 50px;
-    text-align: center;
-    border: 2mm ridge rgba(211, 220, 50, .6);
-    border-width: 9;
-    padding: 2;
-    margin: 20px 200px 20px 200px
+
+    font-size:
+50px;
+
+    text-align:
+center;
+
+    border:
+2mm ridge rgba(211,
+220, 50,
+.6);
+
+    border-width:
+9;
+
+    padding:
+2;
+
+    margin:
+20px 200px 20px 200px
+
 }
+
+
+
 
 
 .below{
-    color: rgb(255, 0, 140);
-    border: 2mm ridge black;
-    border-width: 5;
-    padding: 1;
-    margin: 20px 200px 20px 200px
+
+    color:
+rgb(255,
+0, 140);
+
+    border:
+2mm ridge black;
+
+    border-width:
+5;
+
+    padding:
+1;
+
+    margin:
+20px 200px 20px 200px
+
 }
+
+
+
 
 
 .tab{
-    padding-left: 250px;
+
+    padding-left:
+250px;
+
 }
 
+
+
 table {
-    border-collapse: collapse;
-    border: 2px solid rgb(140 140 140);
-    font-family: sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 1px;
+
+    border-collapse:
+collapse;
+
+    border:
+2px solid rgb(140 140 140);
+
+    font-family:
+sans-serif;
+
+    font-size:
+0.8rem;
+
+    letter-spacing:
+1px;
+
     
 
+
+
   }
+
   
+
   h3 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px;
-    font-weight: bold;
+
+    display:
+flex;
+
+    align-items:
+center;
+
+    justify-content:
+center;
+
+    padding:
+10px;
+
+    font-weight:
+bold;
+
   }
+
   
+
   thead,
+
   tfoot {
-    background-color: rgb(228 240 245);
+
+    background-color:
+rgb(228 240 245);
+
   }
+
   
+
   th,
+
   td {
-    border: 1px solid rgb(160 160 160);
-    padding: 8px 10px;
+
+    border:
+1px solid rgb(160 160 160);
+
+    padding:
+8px 10px;
+
   }
+
   
+
   td:last-of-type {
-    text-align: center;
+
+    text-align:
+center;
+
   }
+
   
+
   tbody > tr:nth-of-type(even) {
-    background-color: rgb(237 238 242);
+
+    background-color:
+rgb(237 238 242);
+
   }
+
   
+
   tfoot th {
-    text-align: right;
+
+    text-align:
+right;
+
   }
+
   
+
   tfoot td {
-    font-weight: bold;
+
+    font-weight:
+bold;
+
   }
+
+
+
+
+
 
 
 
 
 .below{
-    color: rgb(255, 0, 140);
-    border: 2mm ridge black;
-    border-width: 5;
-    padding: 1;
-    margin: 20px 200px 20px 200px
+
+    color:
+rgb(255,
+0, 140);
+
+    border:
+2mm ridge black;
+
+    border-width:
+5;
+
+    padding:
+1;
+
+    margin:
+20px 200px 20px 200px
+
 }
 
+
+
 table {
-    border-collapse: collapse;
-    border: 2px solid rgb(140 140 140);
-    font-family: sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 1px;
+
+    border-collapse:
+collapse;
+
+    border:
+2px solid rgb(140 140 140);
+
+    font-family:
+sans-serif;
+
+    font-size:
+0.8rem;
+
+    letter-spacing:
+1px;
+
   }
+
   
+
   caption {
-    caption-side: bottom;
-    padding: 10px;
-    font-weight: bold;
+
+    caption-side:
+bottom;
+
+    padding:
+10px;
+
+    font-weight:
+bold;
+
   }
+
   
+
   thead,
+
   tfoot {
-    background-color: rgb(228 240 245);
+
+    background-color:
+rgb(228 240 245);
+
   }
+
   
+
   th,
+
   td {
-    border: 1px solid rgb(160 160 160);
-    padding: 8px 10px;
+
+    border:
+1px solid rgb(160 160 160);
+
+    padding:
+8px 10px;
+
   }
+
   
+
   td:last-of-type {
-    text-align: center;
+
+    text-align:
+center;
+
   }
+
   
+
   tbody > tr:nth-of-type(even) {
-    background-color: rgb(237 238 242);
+
+    background-color:
+rgb(237 238 242);
+
   }
+
   
+
   tfoot th {
-    text-align: right;
+
+    text-align:
+right;
+
   }
+
   
+
   tfoot td {
-    font-weight: bold;
+
+    font-weight:
+bold;
+
   }
- 
+
+
+
 ---------- home and about page ---------------
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(255, 0, 212);
@@ -327,5 +533,6 @@ input[type='image'] {
     font: small-caps bold 1.2rem sans-serif;
     text-align: center;
   }
+  
   
 

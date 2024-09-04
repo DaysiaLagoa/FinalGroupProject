@@ -146,6 +146,17 @@ figure {
 
 }
 
+.wooden{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Links{
+    font-size: 20px;
+    
+}
+
 
 
 
@@ -167,7 +178,7 @@ darkred;
     text-align:
 center;
 
-background-color: rgb(176, 209, 237);
+background-color:aqua;
 
 }
 

@@ -135,6 +135,8 @@ figure {
 .home_page_p {
     text-shadow: 0px 5px 10px rgb(6, 0, 5);
 }
+-------------------activities------------------------
+
 
 .three{
     border: darkred;
@@ -142,6 +144,7 @@ figure {
     border: 5px solid rgb(210, 241, 7);
     text-align: center;
 }
+
 .two{
     display: flex;
     align-items: center;
@@ -165,16 +168,25 @@ figure {
     margin: 20px 200px 20px 200px
 }
 
+
+.tab{
+    padding-left: 250px;
+}
+
 table {
     border-collapse: collapse;
     border: 2px solid rgb(140 140 140);
     font-family: sans-serif;
     font-size: 0.8rem;
     letter-spacing: 1px;
+    
+
   }
   
-  caption {
-    caption-side: bottom;
+  h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 10px;
     font-weight: bold;
   }

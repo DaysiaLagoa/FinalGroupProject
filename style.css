@@ -235,10 +235,13 @@ rgb(255,
 
 
 
+
 .tab{
 
-    padding-left:
-250px;
+    padding-left: 250px;
+    border:black 1px;
+    
+     
 
 }
 
@@ -260,6 +263,8 @@ sans-serif;
 
     letter-spacing:
 1px;
+
+background-color: aliceblue;
 
     
 

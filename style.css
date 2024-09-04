@@ -161,11 +161,13 @@ darkred;
 20px;
 
     border:
-5px solid rgb(210,
-241, 7);
+2mm ridge  rgb(211,
+222, 50, .6);
 
     text-align:
 center;
+
+background-color: rgb(176, 209, 237);
 
 }
 
@@ -196,6 +198,8 @@ center;
 220, 50,
 .6);
 
+background-color: aqua;
+
     border-width:
 9;
 
@@ -204,6 +208,8 @@ center;
 
     margin:
 20px 200px 20px 200px
+
+     
 
 }
 
@@ -291,6 +297,8 @@ center;
     font-weight:
 bold;
 
+
+
   }
 
   
@@ -365,11 +373,10 @@ bold;
 .below{
 
     color:
-rgb(255,
-0, 140);
+black;
 
     border:
-2mm ridge black;
+2mm ridge rgb(243, 82, 82);
 
     border-width:
 5;

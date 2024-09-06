@@ -126,7 +126,8 @@ ul {
     overflow: hidden;
     background-color: white;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-between; 
+
 }
 
 button a:hover:not(.active) {
@@ -251,6 +252,7 @@ figure {
 0, 5);
 
 }
+
 
 .wooden{
     display: flex;

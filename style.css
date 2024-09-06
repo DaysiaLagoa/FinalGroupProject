@@ -704,10 +704,15 @@ input[type='image'] {
         
 }
 
+.drama5{
+    color: wheat;
+}
+
 
 .content{
+    padding-top: inherit;
     text-align: center;
-    color: crimson;
+    color:rgb(122, 16, 228);
     text-shadow: 0px 5px 10px rgb(27, 7, 24);
     
     

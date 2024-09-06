@@ -760,6 +760,6 @@ input[type='image'] {
 }
 
 .float {
-    float: right;
-    padding-bottom: 100px;
+    float: center;
+    padding-bottom: 60px;
 }

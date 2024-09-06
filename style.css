@@ -718,13 +718,14 @@ input[type='image'] {
 
 .grand {
     font-size: 20px;
-
-
+    color:rgb(114, 6, 114);
+    background-color: burlywood;
 }
 
 .gym {
     font-size: 20px;
-
+    color: palevioletred;
+    background-color: paleturquoise;
 
 }
 
@@ -737,13 +738,16 @@ input[type='image'] {
 
 .pool {
     font-size: 20px;
-
+    color: rgb(38, 155, 194);
+    background-color: rgb(206, 206, 255);
 
 }
 
 .strength {
     font-size: 20px;
-
+    color: lightskyblue;
+    background-color: cadetblue;
+    
 
 }
 

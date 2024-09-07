@@ -1,3 +1,10 @@
+.all{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
 body{
     text-align: center;
 }
@@ -19,7 +26,6 @@ h1{
     color: rgb(14, 15, 15);
     font-weight: 800;
     text-align: center;
-    text-decoration: underline blueviolet;
     padding: 10px 0;
     padding-right: 30px;
     pointer-events: none;
@@ -126,7 +132,8 @@ ul {
     overflow: hidden;
     background-color: white;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-between; 
+
 }
 
 button a:hover:not(.active) {
@@ -147,7 +154,8 @@ button a:hover:not(.active) {
 }
 
 .content4{
-    color: #d7d9f2;
+    color: #ffffff;
+    text-shadow: 0px 5px 10px rgb(8, 1, 7);
     text-align: center;
     font-weight: 800;
     font-size: larger;
@@ -251,6 +259,7 @@ figure {
 0, 5);
 
 }
+
 
 .wooden{
     display: flex;
@@ -704,11 +713,67 @@ input[type='image'] {
         
 }
 
+.drama5{
+    color: wheat;
+}
+
+.design {
+    font-size: 20px;
+    color: rgb(69, 28, 28);
+    background-color: rgb(195, 116, 116);
+}
+
+.day {
+    font-size: 20px;
+    color: rgb(255, 153, 255);
+    background-color: blueviolet;
+}
+
+.grand {
+    font-size: 20px;
+    color:rgb(114, 6, 114);
+    background-color: burlywood;
+}
+
+.gym {
+    font-size: 20px;
+    color: palevioletred;
+    background-color: paleturquoise;
+
+}
+
+.pie {
+    font-size: 20px;
+    color: rgb(209, 117, 252);
+    background-color: pink;
+
+}
+
+.pool {
+    font-size: 20px;
+    color: rgb(38, 155, 194);
+    background-color: rgb(206, 206, 255);
+
+}
+
+.strength {
+    font-size: 20px;
+    color: lightskyblue;
+    background-color: cadetblue;
+    
+
+}
 
 .content{
+    padding-top: inherit;
     text-align: center;
-    color: crimson;
+    color:rgb(122, 16, 228);
     text-shadow: 0px 5px 10px rgb(27, 7, 24);
     
     
+}
+
+.float {
+    float: center;
+    padding-bottom: 60px;
 }

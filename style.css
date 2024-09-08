@@ -1,7 +1,8 @@
 .all{
-    font-family: "Lobster", sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 400;
     font-style: normal;
+    
   }
 
 
@@ -721,24 +722,31 @@ input[type='image'] {
     font-size: 20px;
     color: rgb(69, 28, 28);
     background-color: rgb(195, 116, 116);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 }
 
 .day {
     font-size: 20px;
     color: rgb(255, 153, 255);
     background-color: blueviolet;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 .grand {
     font-size: 20px;
     color:rgb(114, 6, 114);
     background-color: burlywood;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 .gym {
     font-size: 20px;
     color: palevioletred;
     background-color: paleturquoise;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
@@ -746,6 +754,7 @@ input[type='image'] {
     font-size: 20px;
     color: rgb(209, 117, 252);
     background-color: pink;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
@@ -753,6 +762,7 @@ input[type='image'] {
     font-size: 20px;
     color: rgb(38, 155, 194);
     background-color: rgb(206, 206, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
@@ -760,7 +770,7 @@ input[type='image'] {
     font-size: 20px;
     color: lightskyblue;
     background-color: cadetblue;
-    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
